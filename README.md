@@ -1,6 +1,6 @@
 Exemplo da estrtutura de um mapa conceitual
 
-# Versao fincal - ciencias da natureza
+# Versao final - ciencias da natureza
 ![alt text](image-3.png)
 
 # Estrutura basica
